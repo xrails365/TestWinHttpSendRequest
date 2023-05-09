@@ -1,0 +1,10 @@
+﻿  TestWinHttp.cpp
+C:\Users\User\source\repos\TestWinHttp\TestWinHttp\TestWinHttp.cpp(85,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\TestWinHttp\TestWinHttp\TestWinHttp.cpp(88,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\User\source\repos\TestWinHttp\x64\Release\TestWinHttp.lib и объект C:\Users\User\source\repos\TestWinHttp\x64\Release\TestWinHttp.exp
+  Создание кода
+  0 of 247 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TestWinHttp.vcxproj -> C:\Users\User\source\repos\TestWinHttp\x64\Release\TestWinHttp.dll
